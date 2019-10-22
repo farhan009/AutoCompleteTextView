@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Auto Complete TextView</string>
+
+    <string-array name="department_Name">
+
+        <item> Computer </item>
+        <item> Electrical </item>
+        <item> Electronics </item>
+        <item> Marine </item>
+        <item> AutoMobile </item>
+        <item> ShipBuilding </item>
+        <item> Mechanical </item>
+        <item> Power </item>
+        <item> Architecture </item>
+        <item> Civil </item>
+        <item> Garments Design</item>
+        <item> Textile </item>
+
+    </string-array>
+
+</resources>
